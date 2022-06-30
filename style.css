@@ -1,0 +1,82 @@
+ .container{
+    border: 1px solid lightsteelblue;
+    width: 25%;
+    height: 400px;
+    margin-top: 30px;
+}
+.mainheading{
+     font-family: 'Blaka', cursive; 
+ font-family: 'Chilanka', cursive; 
+ font-family: 'Koulen', cursive; 
+font-family: 'Lobster', cursive; 
+font-family: 'Manjari', sans-serif;
+margin-top: 40px;
+   
+} 
+.separator{
+    display:flex;
+    align-items: center;
+    
+  }
+  
+  .separator .line{
+    height: 1px;
+    flex: 1;
+    background-color: gray;
+  }
+  
+  .separator p{
+    padding: 0 1rem;
+  }
+  .fb{
+      text-decoration: none;
+      color: #385185;
+      margin-left: 12px;
+  }
+  .fo{
+      text-decoration: none;
+      font-size: x-small;
+      margin-left: 100px;
+  }
+  #abc{
+    display: inline;
+  }
+  .last{
+    font-size: small;
+    text-align: center;
+    margin-top: 10px;
+  }
+  .border2{
+    border: 1px solid lightsteelblue;
+    width: 25%;
+    height: 60px;
+    margin-left: 465px;
+    margin-top: 10px;
+  }
+  .check{
+    margin-left: 50px;
+    margin-top: 17px;
+  }
+  #abc{
+     display: flex;
+     
+  }
+  .sign{
+    text-decoration: none;
+    font-size: small;
+    margin-top: 16px;
+    margin-left: 5px;
+    
+    
+  }
+  .app{
+    font-size: small;
+    margin-top: 15px;
+  }
+  
+  
+  
+  /* .all{
+    height: 1000px;
+    background-color: antiquewhite;
+  } */
